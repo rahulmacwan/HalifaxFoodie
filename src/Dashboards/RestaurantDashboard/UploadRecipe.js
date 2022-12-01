@@ -29,10 +29,10 @@ function UploadRecipe() {
 
     // the configuration information is fetched from the .env file
     const config = {
-        bucketName: "serverless-assignment1-b00890152",
-        region: "us-west-2",
-        accessKeyId: "AKIAZDZ3OZNH2RTFIHGY",
-        secretAccessKey: "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",
+        bucketName: "Bucket Name",
+        region: "Region",
+        accessKeyId: "AccessKey ID",
+        secretAccessKey: "Secret Access Key",
     }
 
     //generate a random id for the recipe
